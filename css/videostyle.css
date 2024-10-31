@@ -1,0 +1,20 @@
+.woocommerce-product-gallery {
+
+  display: none;
+
+}
+
+.seedx-slider-wrapper.woocommerce-product-gallery {
+	display: block;
+	max-width: 400px;
+}
+
+.seedx-slider-for {
+	margin-bottom: 10px;
+}
+
+.seedx-slider-nav .slick-slide {
+	margin-right: 5px !important;
+	margin-right: 5px !important;
+}
+

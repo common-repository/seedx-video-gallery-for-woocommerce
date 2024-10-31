@@ -1,0 +1,28 @@
+#seedx_meta{
+	overflow: hidden;
+	padding-bottom: 1em;
+}
+
+#seedx_meta div{
+	clear: both;
+}
+
+.seedx-row-title{
+	display: block;
+	float: left;
+	width: 200px;
+}
+
+.seedx-row-content{
+	float: left;
+	padding-bottom: 1em;
+}
+
+.seedx-row-content label{
+	display: block;
+	line-height: 1.75em;
+}
+
+.seedx-video-class {
+	margin-top: 15px;
+}
